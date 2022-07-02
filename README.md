@@ -1,8 +1,5 @@
 ### Olá 👋 eu sou o João Pedro Silva Terra
 
-<!--
-**jpsilvaterra/jpsilvaterra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 Estou cursando engenharia de software, conclui um tecnico em programação e web e estou em busca da minha primeira vaga na area.
