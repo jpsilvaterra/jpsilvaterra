@@ -2,8 +2,6 @@
 
 - 🔭 Estou cursando engenharia de software, conclui um tecnico em programação e web e estou em busca da minha primeira vaga na area.
 - 🌱 Estou aprendendo: JS(ES6+), React, Node.js, Mongo.db, Typescript, Python, Sass e estou visando estudar PHP e C# 
-- 📫 E-mail: jpsilvaterra.js@gmail.com 
-
 <div align="center">
   <a href="https://github.com/jpsilvaterra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpsilvaterra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
