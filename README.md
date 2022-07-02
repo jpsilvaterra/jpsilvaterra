@@ -1,7 +1,7 @@
 ### Olá 👋 eu sou o João Pedro Silva Terra
 
 - 🔭 Estou cursando engenharia de software, conclui um tecnico em programação e web e estou em busca da minha primeira vaga na area.
-- 🌱 Estou aprendendo: JS(ES6+), React, Node.js, Mongo.db, Python, Sass e estou visando estudar PHP e C# 
+- 🌱 Estou aprendendo: JS(ES6+), React, Node.js, Mongo.db, Typescript, Python, Sass e estou visando estudar PHP e C# 
 - 📫 E-mail: jpsilvaterra.js@gmail.com 
 
 <div align="center">
