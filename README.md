@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Estou cursando engenharia de software, conclui um tecnico em programação web e estou em busca da minha primeira vaga na area.
-- 🌱 Estou aprendendo: JS(ES6+), React, Node.js, Mongo.db, Typescript, Python, Sass e estou visando estudar PHP e C# 
+- 🌱 Estou aprendendo: JS(ES6+), Angular, React, Node.js, Mongo.db, Typescript, Python, Sass e estou visando estudar PHP e C# 
 
 ##
 
