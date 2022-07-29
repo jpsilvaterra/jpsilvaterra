@@ -27,7 +27,6 @@
   <img align="center" alt="jp-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="jp-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="jp-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="jp-Angular" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
 </div>
 
 ##
