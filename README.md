@@ -1,7 +1,6 @@
 ### Olá 👋 eu sou o João Pedro Silva Terra
 
 ##
-<img  src="https://camo.githubusercontent.com/95aa0ac797836460adc9fb4a5ab9982764198e5b3d379d4c1731ab2f0d1b3f7b/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d4f6e2b612b6a6f75726e65792b746f2b62652b612b46756c6c737461636b21"/>
 - 🔭 Estou cursando engenharia de software, conclui um tecnico em programação web e estou em busca da minha primeira vaga na area.
 <br>
 - 🌱 Estou aprendendo: Java, JavaScript(ES6+), React & ReactNative, Ruby e Angular.
