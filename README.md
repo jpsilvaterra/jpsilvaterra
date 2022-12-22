@@ -6,9 +6,8 @@
 <br>
 - 🌱 Estou aprendendo: Java, JavaScript(ES6+), React & ReactNative, Ruby e Angular.
 <br>
-- 🐱‍👤 Estudei e tenho uma noção:  JavaScript(ES6+), Angular, React, Node.js, Mongo.db, Typescript, Python, Sass
+- 🐱‍👤 Estudei e tenho uma noção:  JavaScript(ES6+), Angular, React, Node.js, PHP, SQL, C#/.NET, Typescript, Python, Sass
 <br>
-- 👀 Estou visando estudar PHP, SQL profundamente e C#(.net e asp tbm)
 
 ##
 
