@@ -1,13 +1,9 @@
 ### Olá 👋 eu sou o João Pedro Silva Terra
 
 ##
-- 🔭 Estou cursando engenharia de software, conclui um tecnico em programação web e estou em busca da minha primeira vaga na area.
-<br>
-- 🌱 Estou aprendendo: Java, JavaScript(ES6+), React & ReactNative, Ruby e Angular.
-<br>
-- 🐱‍👤 Estudei e tenho uma noção:  JavaScript(ES6+), Angular, React, Node.js, PHP, SQL, C#/.NET, Typescript, Python, Sass
-<br>
-
+- 🔭 Estou cursando engenharia de software, conclui um tecnico em programação web e estou em busca da minha primeira vaga na area.<br>
+- 🌱 Estou aprendendo: Java, JavaScript(ES6+), React & ReactNative, Ruby e Angular.<br>
+- 🐱‍👤 Estudei e tenho uma noção:  JavaScript(ES6+), Angular, React, Node.js, PHP, SQL, C#/.NET, Typescript, Python, Sass<br>
 ##
 
 <div align="center">
