@@ -5,15 +5,7 @@
 - 🌱 Estou aprendendo: Java, JavaScript(ES6+), React & ReactNative, Ruby e Angular.<br>
 - 🐱‍👤 Estudei e tenho uma noção:  JavaScript(ES6+), Angular, React, Node.js, PHP, SQL, C#/.NET, Typescript, Python, Sass<br>
 ##
-<!–
-<div align="center">
-  <a href="https://github.com/jpsilvaterra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpsilvaterra&show_icons=true&theme=dark&include_all_commits=true&count_public"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsilvaterra&layout=compact&langs_count=7&theme=dark"/>
-</div>
-–>
-##
-  
+
 <div style="display: inline_block"><br>
   <img align="center" alt="jp-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jp-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
