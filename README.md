@@ -2,6 +2,7 @@
 
 ##
 - 🔭 Cursando engenharia de software e um tecnico em desenvolvimento web e informatica para internet concluido.<br>
+- ⚡ Trabalho com performance digital e trafego pago.<br>
 - 🌱 Estou aprendendo: Java, JavaScript(ES6+), React & ReactNative, Ruby e Angular.<br>
 - 🐱‍👤 Estudei e tenho uma noção:  JavaScript(ES6+), Angular, React, Node.js, PHP, SQL, C#/.NET, Typescript, Python, Sass<br>
 ##
