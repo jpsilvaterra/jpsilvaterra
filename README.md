@@ -1,8 +1,8 @@
 ### Olá 👋 eu sou o João Pedro Silva Terra
 
 ##
-- 🔭 Cursando engenharia de software e um tecnico em desenvolvimento web e informatica para internet concluido.<br>
 - ⚡ Atualmente estagio na area de UI/UX na TOTVS.<br>
+- 🔭 Cursando engenharia de software e um tecnico em desenvolvimento web e informatica para internet concluido.<br>
 - 🌱 Estou aprendendo: Java, JavaScript(ES6+), React & ReactNative, Ruby e Angular.<br>
 - 🐱‍👤 Estudei e tenho uma noção:  JavaScript(ES6+), Angular, React, Node.js, PHP, SQL, C#/.NET, Typescript, Python, Sass<br>
 ##
